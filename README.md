@@ -1,7 +1,7 @@
-![paxpax](./paxpax.jpg =400x)
+![paxpax](./paxpax.jpg){:width="400px"}
 
 # crude routing too for flights
-![icon](./icon.jpg =400x)
+![icon](./icon.jpg){:width="400px"}
 
 
 ToDo:
